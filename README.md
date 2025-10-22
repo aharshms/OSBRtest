@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://budecosystem.alwaysdata.net/wp-content/uploads/2025/03/Bud-logowhite.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://blog.budecosystem.com/wp-content/uploads/2025/10/github-scaled.png">
     <img alt="bud" src="https://budecosystem.alwaysdata.net/wp-content/uploads/2025/03/Budlogo-black.png" width=55%>
   </picture>
 </p>
